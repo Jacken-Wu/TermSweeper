@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-    <a href="https://raw.githubusercontent.com/Jacken-Wu/TermSweeper/master/LICENSE">
+    <a href="https://raw.githubusercontent.com/Jacken-Wu/TermSweeper/main/LICENSE">
         <img src="https://img.shields.io/github/license/Jacken-Wu/TermSweeper" alt="license">
     </a>
     <a href="https://github.com/Jacken-Wu/TermSweeper/releases">
@@ -20,6 +20,8 @@
 TermSweeper is a terminal-based Minesweeper game, written in python3.
 
 It only works on linux. If you want to play it on windows, you can try to modify the source code with [UniCurses](https://pypi.org/project/UniCurses) library, or run it on WSL.
+
+https://github.com/user-attachments/assets/9efc1487-230b-4123-a08e-65b979a8e834
 
 ## How to install TermSweeper?
 
